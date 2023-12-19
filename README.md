@@ -121,7 +121,8 @@ Publish the URL.
 ```
 
 ## Output:
-![Output](book.png)
+![book](https://github.com/mohammadfaizal87/cover-page-design/assets/147139206/3ec513da-4fde-42f8-a580-49d66923802a)
+
 
 ## Result:
 the program for designing book cover page using html and css is executed successfully.
